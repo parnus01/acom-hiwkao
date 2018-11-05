@@ -1,6 +1,6 @@
-# vuejs-firebase-01
+# acom-hiwkao
 
-> A Vue.js project
+> Internal Project for lunch service 
 
 ## Build Setup
 
@@ -19,4 +19,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# acom-hiwkao
+
